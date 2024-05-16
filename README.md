@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Jupyter Notebook, Python, PyGame, GODOT, C, C++, Pascal and HTML**
 
-- 🌱 I’m currently learning **Data Analysis in DataWars academy**
+- 🌱 I’m currently learning **Data Analysis in DataWars academy and CS in CS50**
 
 - ☁️ I've keen interest in game development. So,I'm learning **UNITY and UNREAL**
 
