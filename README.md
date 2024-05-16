@@ -32,7 +32,7 @@
 
 - ☁️ I've keen interest in game development. So,I'm learning **UNITY and UNREAL**
 
-- 💬 Ask me about **Jupyter Notebook, Python, PyGame, GODOT, C, C++, Pascal and HTML**
+- 💬 Ask me about **Jupyter Notebook, Python, PyGame, GODOT, C, C++, Pascal, Linux and HTML**
 
 - 📫 Feel free to reach me out **miketreyu@gmail.com**
 
