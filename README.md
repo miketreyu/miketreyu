@@ -19,9 +19,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Jupyter Notebook, Python, PyGame, GODOT, C, C++, Pascal and HTML**
+- 🔭 I’m currently working on **Jupyter Notebook, Eclipse, Python, PyGame, GODOT, C, C++, Pascal, JAVA, HTML and CSS**
 
-- 🌱 I’m currently learning **Data Analysis in DataWars academy and CS in CS50**
+- 🌱 I’m currently learning **Multimedia App Development in IES Barajas, besides Data Analysis in DataWars academy and CS in CS50**
 
 - ☁️ I've keen interest in game development. So,I'm learning **UNITY and UNREAL**
 
@@ -76,7 +76,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,github,html,linux,mongodb,mysql,vim,py,vscode,godot,unity,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,java,elcipse,mariadb,css,discord,docker,github,html,linux,mongodb,mysql,vim,py,vscode,godot,unity,linux&perline=14" />
   </a>
 </p>
 
