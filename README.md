@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Multimedia App Development in IES Barajas, besides Data Analysis in DataWars academy and CS in CS50**
 
-- ☁️ I've keen interest in game development. So,I'm learning **UNITY and UNREAL**
+- ☁️ I've keen interest in game development. So, I'm learning **UNITY and UNREAL**
 
 - 💬 Ask me about **Jupyter Notebook, Python, PyGame, GODOT, C, C++, Pascal, Linux and HTML**
 
